@@ -1,0 +1,20 @@
+nav img{
+    width:75px;
+    padding: 10px;
+}
+nav{
+    background-color: black;
+}
+ul{
+    float : right;
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+    padding: 10px;
+}
+li a{
+    color: yellow;
+    text-decoration: none;
+    cursor: pointer;
+}
